@@ -8,7 +8,11 @@
        <li></li>
 </ul>
 
+<div>
+          <h3>Home Page</h3>
+         <img src='https://i.postimg.cc/0yfV953J/screencapture-tmarrt-netlify-app-2024-02-04-20-30-22.png'/>
+        </div>
 
-<img src='https://i.postimg.cc/0yfV953J/screencapture-tmarrt-netlify-app-2024-02-04-20-30-22.png'/>
+
 
 <h2>server github repo: https://github.com/sk-fahim-hossain/marketplace-server </h2>
