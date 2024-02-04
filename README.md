@@ -9,16 +9,16 @@
 </ul>
 
 
-<div style="display: flex , width:'100%'">
-        <div >
-          <h3>Home Page</h3>
-         <img src='https://i.postimg.cc/0yfV953J/screencapture-tmarrt-netlify-app-2024-02-04-20-30-22.png'/>
-        </div>
-        <div>
-          <h3>Product Page</h3>
-          <img src="https://i.postimg.cc/Zn0KfqNt/screencapture-tmarrt-netlify-app-toys-65bc8133ffdaeec51e0ba761-2024-02-04-20-34-17.png" alt="" />
-        </div>
+
+<div >
+<h3>Home Page</h3>
+<img src='https://i.postimg.cc/0yfV953J/screencapture-tmarrt-netlify-app-2024-02-04-20-30-22.png'/>
 </div>
+<div>
+<h3>Product Page</h3>
+<img src="https://i.postimg.cc/Zn0KfqNt/screencapture-tmarrt-netlify-app-toys-65bc8133ffdaeec51e0ba761-2024-02-04-20-34-17.png" alt="" />
+</div>
+
 
 
 <h2>server github repo: https://github.com/sk-fahim-hossain/marketplace-server </h2>
